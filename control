@@ -1,0 +1,9 @@
+Package: org.thebigboss.dndsofs
+Name: DoNotDisturb Silence FS
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Toggle for DND silence option.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Addons (Flipswitch)
